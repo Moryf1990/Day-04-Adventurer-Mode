@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto; }
+
+nav {
+  padding: 1em; }
+
+.gray-header {
+  color: gray;
+  margin: 0 0.5em;
+  text-decoration: none; }
+
+.black-header {
+  text-decoration: none;
+  color: #111; }
+
+.top-logo {
+  background: #2E4A83;
+  color: #fff;
+  padding: 3em 0;
+  text-align: center;
+  font-size: 2em; }
+
+/*# sourceMappingURL=main.css.map */
