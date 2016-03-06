@@ -81,3 +81,22 @@ a {
 	color: #D4D4D4;
 	text-align: center;
 }
+
+@media (min-width: 767px) {
+	.input-section {
+		display: inline-block;
+		float: left;
+		width: 40%;
+	}
+
+	.barrier {
+		margin-top: 0;
+		border: 1px solid #D7D7D7;
+	}
+
+	.footer {
+		overflow: hidden;
+		width: 100%;
+		float: left;
+	}
+}
