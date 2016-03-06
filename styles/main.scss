@@ -89,14 +89,44 @@ a {
 		width: 40%;
 	}
 
+	.article-section {
+		display: inline-block;
+		float: left;
+		width: 50%;
+		padding-left: 3em;
+	}
+
 	.barrier {
 		margin-top: 0;
-		border: 1px solid #D7D7D7;
+		border: 1px solid #fff;
 	}
 
 	.footer {
 		overflow: hidden;
 		width: 100%;
 		float: left;
+	}
+
+	.name-input {
+		width: 100%;
+	}
+}
+
+@media (min-width: 979px) {
+	.input-section {
+		display: inline-block;
+		float: left;
+		width: 40%;
+		padding-left: 10%;
+	}
+
+	.article-section {
+		display: inline-block;
+		float: left;
+		width: 40%;
+	}
+
+	.name-input {
+		width: 100%;
 	}
 }
