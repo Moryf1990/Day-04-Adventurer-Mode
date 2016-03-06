@@ -24,3 +24,60 @@ nav {
 	text-align: center;
 	font-size: 2em;
 }
+
+.name-header {
+	padding-left: 2em;
+	margin-bottom: 0.5em;
+}
+
+.name-input {
+	margin-left: 3em;
+	height: 3em;
+	width: 80%;
+	border: 1px solid #D7D7D7;
+}
+
+.name-textarea {
+	margin-left: 3em;
+	width: 80%;
+	height: 20em;
+	border: 1px solid #D7D7D7;
+}
+
+.button {
+	height: 3em;
+	font-weight: bold;
+	margin-left: 3em;
+	border: 1px solid #D7D7D7;
+	width: 8em;
+	background: #fff;
+	border-radius: 2em;
+	margin-top: 1em;
+}
+
+.barrier {
+	margin-top: 4em;
+	border: 1px solid #D7D7D7;
+}
+
+.article-header {
+	padding-left: 3em;
+}
+
+.article {
+	padding: 0 3.5em;
+}
+
+.footer {
+	background: black;
+	color: #727272;
+	margin-top: 4em;
+	font-size: 1.3em;
+	padding: 2em;
+	text-align: center;
+}
+
+a {
+	color: #D4D4D4;
+	text-align: center;
+}
